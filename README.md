@@ -15,7 +15,7 @@ Sample Screeshot of Inference in Command Prompt run locally:
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/412e4b65-5ff5-43db-9a05-31263f4452aa">
 
 Screenshot of the CPU usage when inference is performed: 
-<img width="476" alt="image" src="https://github.com/user-attachments/assets/9c133311-7aa1-4876-8643-ea61e3525719">
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/9c133311-7aa1-4876-8643-ea61e3525719">
 
 
 ## Hardware and Software Used
